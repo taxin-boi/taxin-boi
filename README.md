@@ -40,19 +40,27 @@ $ whoami
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-#### 🖥️ DevOps & Systems
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache2-D22128?style=for-the-badge&logo=apache&logoColor=white)
+#### ☁️ Cloud & Infrastructure
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+
+#### 🌐 Web Servers
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Apache2](https://img.shields.io/badge/Apache2-D22128?style=for-the-badge&logo=apache&logoColor=white)
+
+#### 🔧 Process & Version Control
 ![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-#### 🧰 Tools & Environment
+#### 🖥️ Systems & Scripting
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+#### 🧰 Dev Environment
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 ![tmux](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)
 ![Hyprland](https://img.shields.io/badge/Hyprland-58E1FF?style=for-the-badge&logo=wayland&logoColor=black)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
 ---
 
@@ -60,14 +68,14 @@ $ whoami
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=taxin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taxin&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=taxin-boi&theme=tokyonight" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=taxin-boi&theme=tokyonight" />
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=taxin&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=taxin-boi&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -77,7 +85,7 @@ $ whoami
 
 | Project | Stack | Description |
 |---|---|---|
-| 🌐 **[Community Blog Platform](https://github.com/taxin-boi)** | MERN, AWS EC2, Apache2 | Full-stack Bengali-language blog with Google OAuth, image uploads & dark UI |
+| 🌐 **[Community Blog Platform](https://github.com/taxin-boi)** | MERN, AWS EC2, Nginx | Full-stack Bengali-language blog with Google OAuth, image uploads & dark UI |
 | ⚙️ **[Spring Boot REST API](https://github.com/taxin-boi)** | Java, Spring Boot, MySQL | Secure RESTful backend with Spring Security & JWT auth |
 | 🐧 **[Linux Automation Scripts](https://github.com/taxin-boi)** | Bash, Python | Collection of productivity & system automation scripts for Arch Linux |
 
@@ -87,7 +95,7 @@ $ whoami
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=taxin&theme=tokyo-night&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=taxin-boi&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
@@ -99,7 +107,7 @@ $ whoami
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mutacim-billah-4a0768407/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/taxin-boi)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](unknownbrofrombd@duck.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:unknownbrofrombd@duck.com)
 
 </div>
 
