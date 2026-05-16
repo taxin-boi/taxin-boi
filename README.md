@@ -111,8 +111,6 @@ $ whoami
 
 </div>
 
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:414868,50:24283b,100:1a1b26&height=100&section=footer" />
