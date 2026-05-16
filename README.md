@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hey,%20I'm%20taxin%20👋&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Backend%20Architect%20%7C%20Linux%20Enthusiast&descAlignY=58&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:24283b,100:414868&height=200&section=header&text=Hey,%20I'm%20taxin%20👋&fontSize=48&fontColor=c0caf5&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Backend%20Architect%20%7C%20Linux%20Enthusiast&descAlignY=58&descSize=16&descColor=7aa2f7" />
+
+
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%92%BB;MERN+Stack+Engineer+%F0%9F%8C%90;Java+%26+Spring+Boot+Dev+%E2%9A%99%EF%B8%8F;Linux+%26+Open+Source+Enthusiast+%F0%9F%90%A7;Always+Building+Something+New+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
@@ -40,17 +44,13 @@ $ whoami
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-#### ☁️ Cloud & Infrastructure
-![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-
-#### 🌐 Web Servers
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Apache2](https://img.shields.io/badge/Apache2-D22128?style=for-the-badge&logo=apache&logoColor=white)
-
-#### 🔧 Process & Version Control
-![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+#### ☁️ DevOps & Cloud
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Apache2](https://img.shields.io/badge/Apache2-D22128?style=flat-square&logo=apache&logoColor=white)
+![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 #### 🖥️ Systems & Scripting
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -85,9 +85,9 @@ $ whoami
 
 | Project | Stack | Description |
 |---|---|---|
-| 🌐 **[Community Blog Platform](https://github.com/taxin-boi)** | MERN, AWS EC2, Nginx | Full-stack Bengali-language blog with Google OAuth, image uploads & dark UI |
+| 🌐 **[Community Blog Platform](https://uddipto.pages.dev/)** | MERN, AWS EC2, Nginx | Full-stack Bengali-language blog with Google OAuth, image uploads & dark UI |
 | ⚙️ **[Spring Boot REST API](https://github.com/taxin-boi)** | Java, Spring Boot, MySQL | Secure RESTful backend with Spring Security & JWT auth |
-| 🐧 **[Linux Automation Scripts](https://github.com/taxin-boi)** | Bash, Python | Collection of productivity & system automation scripts for Arch Linux |
+| 🐧 **[Linux Automation Scripts]([https://github.com/taxin-boi](https://github.com/taxin-boi/sober.git))** | Bash, Python | Collection of productivity & system automation scripts for Arch Linux |
 
 ---
 
@@ -115,7 +115,7 @@ $ whoami
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:414868,50:24283b,100:1a1b26&height=100&section=footer" />
 
 <sub>⚡ Powered by caffeine, Neovim & a terminal that never closes</sub>
 
