@@ -17,11 +17,12 @@
 ## 🧑‍💻 About Me
 
 ```ts
-const zenith = {
+const taxin = {
   stack:     ["MongoDB", "Express", "React", "Node.js"],
   backend:   ["Java Spring Boot", "Python", "REST APIs"],
   tools:     ["Neovim", "tmux", "Fish Shell", "Hyprland", "Git"],
   os:        "Arch Linux (Omarchy)",
+  scripting: ["Bash", "Shell scripting", "crontab", "systemd"],
   currently: "Building full-stack web apps & open-source tools",
   funFact:   "My terminal is more customized than my bedroom.",
 };
@@ -56,6 +57,7 @@ const zenith = {
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ---
 
@@ -90,7 +92,7 @@ const zenith = {
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mutacim-billah-4a0768407)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/taxin)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/taxin-boi)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:unknownbrofrombd@duck.com)
 
 </div>
