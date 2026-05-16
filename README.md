@@ -87,7 +87,7 @@ $ whoami
 |---|---|---|
 | 🌐 **[Community Blog Platform](https://uddipto.pages.dev/)** | MERN, AWS EC2, Nginx | Full-stack Bengali-language blog with Google OAuth, image uploads & dark UI |
 | ⚙️ **[Spring Boot REST API](https://github.com/taxin-boi)** | Java, Spring Boot, MySQL | Secure RESTful backend with Spring Security & JWT auth |
-| 🐧 **[Linux Automation Scripts]([https://github.com/taxin-boi](https://github.com/taxin-boi/sober.git))** | Bash, Python | Collection of productivity & system automation scripts for Arch Linux |
+| 🐧 **[Linux Automation Scripts](https://github.com/taxin-boi/sober)** | Bash, Python | Collection of productivity & system automation scripts for Arch Linux |
 
 ---
 
