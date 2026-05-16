@@ -63,14 +63,14 @@ const zenith = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=taxin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taxin&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=taxin&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -80,8 +80,8 @@ const zenith = {
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| 🗞️ **[উদ্দীপ্ত তরুণ সংঘ Blog](https://github.com/YOUR_USERNAME/YOUR_REPO)** | Full-stack Bengali-language blog platform with OAuth, image uploads & dark UI | MongoDB · Express · React · Node.js · AWS |
-| 🕌 **[Namaz Lock](https://github.com/YOUR_USERNAME/YOUR_REPO)** | Auto screen-lock at Islamic prayer times on Hyprland/Wayland | Python · tkinter · crontab |
+| 🗞️ **[উদ্দীপ্ত তরুণ সংঘ Blog](https://github.com/taxin/YOUR_REPO)** | Full-stack Bengali-language blog platform with OAuth, image uploads & dark UI | MongoDB · Express · React · Node.js · AWS |
+| 🕌 **[Namaz Lock](https://github.com/taxin/YOUR_REPO)** | Auto screen-lock at Islamic prayer times on Hyprland/Wayland | Python · tkinter · crontab |
 
 ---
 
@@ -89,9 +89,9 @@ const zenith = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mutacim-billah-4a0768407)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/taxin)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:unknownbrofrombd@duck.com)
 
 </div>
 
