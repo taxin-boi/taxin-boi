@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hey,%20I'm%20Zenith%20👋&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Backend%20Architect%20%7C%20Linux%20Enthusiast&descAlignY=58&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hey,%20I'm%20taxin%20👋&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Backend%20Architect%20%7C%20Linux%20Enthusiast&descAlignY=58&descSize=16" />
 
 </div>
 
@@ -60,14 +60,14 @@ $ whoami
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=taxin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taxin&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=taxin&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -77,9 +77,9 @@ $ whoami
 
 | Project | Stack | Description |
 |---|---|---|
-| 🌐 **[Community Blog Platform](https://github.com/YOUR_USERNAME)** | MERN, AWS EC2, Apache2 | Full-stack Bengali-language blog with Google OAuth, image uploads & dark UI |
-| ⚙️ **[Spring Boot REST API](https://github.com/YOUR_USERNAME)** | Java, Spring Boot, MySQL | Secure RESTful backend with Spring Security & JWT auth |
-| 🐧 **[Linux Automation Scripts](https://github.com/YOUR_USERNAME)** | Bash, Python | Collection of productivity & system automation scripts for Arch Linux |
+| 🌐 **[Community Blog Platform](https://github.com/taxin-boi)** | MERN, AWS EC2, Apache2 | Full-stack Bengali-language blog with Google OAuth, image uploads & dark UI |
+| ⚙️ **[Spring Boot REST API](https://github.com/taxin-boi)** | Java, Spring Boot, MySQL | Secure RESTful backend with Spring Security & JWT auth |
+| 🐧 **[Linux Automation Scripts](https://github.com/taxin-boi)** | Bash, Python | Collection of productivity & system automation scripts for Arch Linux |
 
 ---
 
@@ -87,7 +87,7 @@ $ whoami
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=taxin&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
@@ -97,9 +97,9 @@ $ whoami
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mutacim-billah-4a0768407/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/taxin-boi)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](unknownbrofrombd@duck.com)
 
 </div>
 
