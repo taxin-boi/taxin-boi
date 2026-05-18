@@ -85,7 +85,7 @@ $ whoami
 
 | Project | Stack | Description |
 |---|---|---|
-| 🌐 **[Community Blog Platform](https://uddipto.pages.dev/)** | MERN, AWS EC2, Nginx | Full-stack Bengali-language blog with Google OAuth, image uploads & dark UI |
+| 🌐 **[Community Blog Platform](https://github.com/taxin-404/uddipto)** | MERN, cloudflare, firebase | Full-stack Bengali-language blog with Google OAuth, image uploads & dark UI |
 | ⚙️ **[Spring Boot REST API](https://github.com/taxin-404)** | Java, Spring Boot, MySQL | Secure RESTful backend with Spring Security & JWT auth |
 | 🐧 **[Linux Automation Scripts](https://github.com/taxin-404/sober)** | Bash, Python | Collection of productivity & system automation scripts for Arch Linux |
 
