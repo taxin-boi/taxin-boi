@@ -68,14 +68,14 @@ $ whoami
 
 <div align="center">
 
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=taxin-boi&theme=tokyonight" />
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=taxin-boi&theme=tokyonight" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=taxin-404&theme=tokyonight" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=taxin-404&theme=tokyonight" />
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=taxin-boi&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=taxin-404&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -86,8 +86,8 @@ $ whoami
 | Project | Stack | Description |
 |---|---|---|
 | 🌐 **[Community Blog Platform](https://uddipto.pages.dev/)** | MERN, AWS EC2, Nginx | Full-stack Bengali-language blog with Google OAuth, image uploads & dark UI |
-| ⚙️ **[Spring Boot REST API](https://github.com/taxin-boi)** | Java, Spring Boot, MySQL | Secure RESTful backend with Spring Security & JWT auth |
-| 🐧 **[Linux Automation Scripts](https://github.com/taxin-boi/sober)** | Bash, Python | Collection of productivity & system automation scripts for Arch Linux |
+| ⚙️ **[Spring Boot REST API](https://github.com/taxin-404)** | Java, Spring Boot, MySQL | Secure RESTful backend with Spring Security & JWT auth |
+| 🐧 **[Linux Automation Scripts](https://github.com/taxin-404/sober)** | Bash, Python | Collection of productivity & system automation scripts for Arch Linux |
 
 ---
 
@@ -95,7 +95,7 @@ $ whoami
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=taxin-boi&theme=tokyo-night&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=taxin-404&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
